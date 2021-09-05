@@ -2,7 +2,7 @@
 
 2. Contato do desenvolvedor: 
    - José Maxuel Ferreira da Silva Lisbôa <<email@arapiraca.ufal.br>>
-   - Moraniel Ribeiro Sena Junior <<email@arapiraca.ufal.br>> [Líder]
+   - Moraniel Ribeiro Sena Junior <<moraniel.junior@arapiraca.ufal.br>> [Líder]
    - João Victor Vilela dos Santos <<joao.vilela@arapiraca.ufal.br>>
 
 3. Endereço: Av. Manoel Severino Barbosa - Bom Sucesso, Arapiraca - AL, 57309-005.
