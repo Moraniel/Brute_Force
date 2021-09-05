@@ -9,7 +9,7 @@
    
 4. Primeiro ano disponível: 2021.
 
-5. Hardware sugerido (mínimo): Processador com clock de 1.6GHz , memória RAM 4GB 1333MHz DDR4, HD 512GB, sistema operacional [qualquer] / Google Colab.
+5. Hardware sugerido (mínimo): Processador com clock de 1.6GHz , memória RAM 4GB 2400MHz DDR4, HD 512GB, sistema operacional [qualquer] / Google Colab.
 
 6. Software necessário: Python 3.9; bibliotecas do python “sys”.
 
