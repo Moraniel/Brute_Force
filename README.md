@@ -1,18 +1,6 @@
-<h1 align="center">
-    <a href="https://github.com/Moraniel/Projeto-Integrador">🔗 EcoWork</a>
-</h1>
-<p align="center">🚀 Projeto Integrador - UFAL - Campus Arapiraca</p>
+1. Nome do software: EcoWork.
 
-<p align="center">
- <a href="#objetivo">Contato com os autores</a> •
- <a href="#roadmap">Primeiro ano disponível</a> • 
- <a href="#tecnologias">Hardware sugerido</a> • 
- <a href="#contribuicao">Softwares necessários</a> • 
- <a href="#licenc-a">Disponibilidade</a> • 
- <a href="#autor">Custo</a>
-</p>
-
-1. Contato do desenvolvedor: 
+2. Contato do desenvolvedor: 
    - José Maxuel Ferreira da Silva Lisbôa <<email@arapiraca.ufal.br>>
    - Moraniel Ribeiro Sena Junior <<email@arapiraca.ufal.br>> [Líder]
    - João Victor Vilela dos Santos <<joao.vilela@arapiraca.ufal.br>>
@@ -27,6 +15,6 @@
 
 7. Disponibilidade:
     - SOURCECODE. Disponível em: <<https://github.com/Moraniel/Projeto-Integrador>>
-    - Bases de dados testadas: [SH07](), [SP11](), [UK12](), [PS06](), [LAU15](), [WG22](), [SGB128](), [USCA312]()
+    - Bases de dados testadas: [SH07](https://people.sc.fsu.edu/~jburkardt/datasets/cities/sh07_dist.txt), [SP11](https://people.sc.fsu.edu/~jburkardt/datasets/cities/sp11_dist.txt), [UK12](https://people.sc.fsu.edu/~jburkardt/datasets/cities/uk12_dist.txt), [WG59](https://people.sc.fsu.edu/~jburkardt/datasets/cities/wg59_dist.txt), [LAU15](https://people.sc.fsu.edu/~jburkardt/datasets/cities/lau15_dist.txt), [WG22](https://people.sc.fsu.edu/~jburkardt/datasets/cities/wg22_dist.txt), [SGB128](https://people.sc.fsu.edu/~jburkardt/datasets/cities/sgb128_dist.txt), [USCA312](https://people.sc.fsu.edu/~jburkardt/datasets/cities/usca312_dist.txt)
 
 8. Custo: Todas as ferramentas utilizadas são gratuitas.
