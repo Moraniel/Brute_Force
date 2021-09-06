@@ -1,0 +1,2 @@
+Custo = 1733
+Tempo de execução = 210.665s
