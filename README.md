@@ -1,7 +1,7 @@
 1. Nome do software: EcoWork.
 
 2. Contato do desenvolvedor: 
-   - José Maxuel Ferreira da Silva Lisbôa <<email@arapiraca.ufal.br>>
+   - José Maxuel Ferreira da Silva Lisbôa <<jose.lisboa@arapiraca.ufal.br>>
    - Moraniel Ribeiro Sena Junior <<moraniel.junior@arapiraca.ufal.br>> [Líder]
    - João Victor Vilela dos Santos <<joao.vilela@arapiraca.ufal.br>>
 
